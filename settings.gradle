@@ -1,0 +1,2 @@
+rootProject.name='ProjetoMindBe'
+include ':app'
